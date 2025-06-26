@@ -8,21 +8,21 @@
 -----------------------
 ## 📌 Objetivo
 
-Este projeto tem como objetivo investigar se há relação estatisticamente significativa entre:
+Este projeto tem como objetivo investigar se há relação significativa entre:
 
 - o **Índice de Desenvolvimento Humano (IDH)** dos estados brasileiros,
-- o **partido político mais votado** nas eleições de 2022 (1º turno),
-- e a **cobertura vacinal** dos estados municípios no ano de 2023.
+- os **partidos políticos mais votados** nas eleições de 2022 (1º turno),
+- e a **cobertura vacinal** dos estados e municípios no ano de 2023.
 
 De forma geral, buscamos responder à pergunta:  
-> **"Estados ou municípios com maior IDH e com maior votação em partidos com discurso antivacina apresentaram menor cobertura vacinal em 2023?"**
+> **"Há relação entre IDH, comportamento eleitoral e cobertura vacinal no Brasil?"**
 
 De forma específica:
 >1. Existe relação entre IDH e cobertura vacinal dos estados? Qual?
 >2. Municípios com alta votação em candidatos de partidos com discurso antivacina em 2022 apresentaram menor índice de vacinação em 2023?
 >3. Quais os três partidos mais votados nos cinco estados com maior IDH e nos cinco com menor IDH?
 >4. Quais partidos foram mais votados nos estados com menor cobertura vacinal? E nos com maior?
->5. Estatísticamente, podemos afirmar que de fato há relação entre IDH, partidos mais votados e cobertura vacinal?
+>5. Formalmente, podemos afirmar que de fato há relação entre IDH, partidos mais votados e cobertura vacinal?
 
 ---
 
