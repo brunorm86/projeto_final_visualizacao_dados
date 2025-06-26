@@ -6,12 +6,9 @@ Questões:
 
 2. Municípios com alta votação em candidatos de partidos com discurso antivacina em 2022 apresentaram menor índice de vacinação em 2023?
 
-3. Qual a distribuição dos votos válidos por partido nos estados com maior IDH?
-Analisar os partidos mais votados em estados com IDH alto.
-e investigar se o engajamento cívico reflete tanto nas urnas quanto na saúde pública.
+3. Quais os três partidos mais votados nos cinco estados com maior IDH e nos cinco com menor IDH
 
 4. Quais partidos foram mais votados nos estados com menor cobertura vacinal? E nos maiores?
-→ Analisar se há alguma tendência partidária específica associada a baixa adesão vacinal.
 
 5. Quais os partidos mais votados nos estados com cobertura vacinal abaixo da média nacional?
 → Pode indicar influência de discursos negacionistas.
